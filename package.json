@@ -4,7 +4,7 @@
   "description": "",
   "main": "webpack.config.js",
   "dependencies": {
-    "chart.js": "^2.7.1"
+    "chart.js": "^2.7.2"
   },
   "devDependencies": {
     "css-loader": "^0.28.10",
