@@ -1,3 +1,5 @@
+// exports itself as the default export, making it available to whatever file imports it via:
+// import name from './datasets'
 export default [
   {
     label: '# of Votes',

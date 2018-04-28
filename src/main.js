@@ -1,5 +1,10 @@
+// chart.js is imported from npm/node_modules
 import chart from 'chart.js';
+
+// datasets is a local import, notice the relative path
 import datasets from './datasets';
+
+// using style-loader, webpack will also bundle any css file
 import './main.css';
 
 const ctx = document.getElementById("myChart");
